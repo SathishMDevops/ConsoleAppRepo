@@ -1,5 +1,5 @@
 @Library('Devops_Vibrary@master')_
 node
 {
-postname("Sathish");
+  postname("Sathish");
 }
