@@ -2,4 +2,5 @@
 node
 {
   PostName("Sathish");
+  executefile("vino");
 }
